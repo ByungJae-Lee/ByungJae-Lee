@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm ByungJae Lee, a developer who codes dreams.</h1>
 <h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 - 📫 How to reach me **bjgeumgang@gmail.com**
 
